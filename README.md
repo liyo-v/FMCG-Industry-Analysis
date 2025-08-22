@@ -17,7 +17,8 @@ The Supply Chain team decided to use a standard approach to measure the service 
 # 3. Documents Included
 - 6 excel worksheets containing various information.
 - Text document explaining what data is included in the worksheets.
-- 1 excel worksheet ('metrics list') explaining the metrics to be included
+- An excel worksheet ('metrics list') explaining the metrics to be included
 - A microsoft power bi desktop file showcasing the report made to answer the business questions with the given data.
+- Pdf file explaining basic Business Knowlege required for the project.
 # 4. Tools used for the project
 - Excel, Power BI
